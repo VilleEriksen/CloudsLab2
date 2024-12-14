@@ -1,6 +1,6 @@
 from math import *
 
-def intgcossin(lower, upper, n):
+def intgabssin(lower, upper, n):
     sum = 0.0
     h = (upper - lower) / n
     
